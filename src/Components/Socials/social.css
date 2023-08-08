@@ -1,0 +1,16 @@
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.social a{
+    margin: 5px;
+background-color: rgba(255, 0, 0, 0.744);
+}
+
+.social a span{
+color: white;
+
+}
